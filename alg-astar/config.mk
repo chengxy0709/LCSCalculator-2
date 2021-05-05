@@ -1,0 +1,1 @@
+objs += alg-astar/astar.o

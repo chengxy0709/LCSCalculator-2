@@ -1,0 +1,1 @@
+objs += alg-wdag/wdag.o

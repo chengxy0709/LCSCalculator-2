@@ -1,0 +1,1 @@
+objs += alg-example/example.o

@@ -1,0 +1,1 @@
+objs += alg-mlcsapp/mlcsapp.o

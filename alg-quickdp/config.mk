@@ -1,0 +1,1 @@
+objs += alg-quickdp/quickdp.o
